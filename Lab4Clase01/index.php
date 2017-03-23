@@ -11,4 +11,7 @@ $app->get('/hello/{name}', function (Request $request, Response $response) {
 
     return $response;
 });
+$app->get('/', function (Request $request, Response $response) {
+	echo "Hola mundo";
+});
 $app->run();
