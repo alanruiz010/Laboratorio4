@@ -1,0 +1,11 @@
+1-instalamos el cliente angular->npm install -g angular-cli
+2-where npm 
+->  me muestra laraiz dela instalacion del angular cliente
+instala el framework de angular para trabajar mejor
+3-ng help ->ayuda
+4-ng new (carpeta) -> crea carpeta demi application
+5-el server se llama lab4clase02angular
+6-luego posicionarse dentro del directorio e introducir ->
+PARA LEVANTAR EL SERVIDOR DEJAR ABIERTA LA CONSOLA
+-> ng serve 
+7-tu chrome no lo levanta entonces->localhost:4200/Lab4Clase02angular
