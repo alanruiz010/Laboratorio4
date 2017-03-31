@@ -15,3 +15,5 @@ $app->get('/', function (Request $request, Response $response) {
 	echo "Hola mundo";
 });
 $app->run();
+//aca meto los get..puts..para la ABM
+//LLAMO AL NEXO DESDE ACA 
